@@ -15,7 +15,7 @@ name,datetime,temp,humidity,precip,windgust,windspeed,cloudcover,visibility,cond
 "Lille, Hauts-de-France, France",2025-11-05 12:00:00,59.9,61.35,0.0,23.7,13.6,40.8,16.2,Partially cloudy,partly-cloudy-day
 "Lille, Hauts-de-France, France",2025-11-06 12:00:00,57.6,74.68,0.0,10.1,7.0,97.8,28.6,Overcast,cloudy
 "Lille, Hauts-de-France, France",2025-11-07 15:00:00,56.0,83.89,0.0,20.1,10.3,100.0,24.9,Overcast,cloudy
-"Lille, Hauts-de-France, France",2025-11-10 12:00:00,50.4,84.35,0.0,24.1,13.8,75.0,18.6,Partially cloudy,partly-cloudy-day
+"Lille, Hauts-de-France, France",2025-11-10 12:00:0&0,50.4,84.35,0.0,24.1,13.8,75.0,18.6,Partially cloudy,partly-cloudy-day
 "Lille, Hauts-de-France, France",2025-11-11 12:00:00,52.0,90.71,0.0,23.2,14.6,100.0,21.7,Overcast,cloudy
 "Lille, Hauts-de-France, France",2025-11-12 12:00:00,57.5,65.2,0.0,19.6,10.6,81.2,18.6,Partially cloudy,partly-cloudy-day
 "Lille, Hauts-de-France, France",2025-11-13 12:00:00,57.0,80.46,0.0,15.0,8.2,100.0,23.0,Overcast,cloudy

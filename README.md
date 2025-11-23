@@ -23,25 +23,6 @@ Ce projet analyse l'impact des conditions météorologiques sur les manifestatio
 - **Indicateurs** : Expression faciale, interactions sociales
 ---
 
-## 📁 Structure
-
-```
-meteo-humeur/
-│
-├── notebooks/
-│   └── analyse_meteo_humeur.ipynb    # Analyse complète avec visualisations
-│
-├── CSVs/
-│   └── meteo_humeur.csv              # Données brutes (29 sessions)
-│
-├── docs/
-│   └── compte_rendu.pdf              # Rapport complet de l'étude
-│
-└── README.md
-```
-
----
-
 ## 🔬 Résultats clés
 
 | Météo | Humeur positive | IC 95% | n |
